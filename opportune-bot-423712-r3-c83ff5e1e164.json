@@ -1,13 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "opportune-bot-423712-r3",
-  "private_key_id": "c83ff5e1e1644c6e0ad63b562ba1d31fc2ab1e0e",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDV937O146oJU++\nszPODFACUz4c/TDFws5gkvSOUFy3kKHOPkckDCjfj9ar1dwKmMvNJbJPNpZvMEf0\nMA5DbvGGd2eCxjEgsy65bbN99Q8cPS5htElQKqbqTZx8r2AhEy2mVqrZL/Hk+aV4\njMmSG4byI/PhpGAKllVKSzmCIXejLvJKA3hhaM/l5avaL+b3HBCubx93lAYNcrCc\nguAFcMyQc7E1MBt2G64IIen7RPafjbh7m6K6zML9GyDpvxieUTr5M7T/QRAses0G\nKwSpA3Uby1D1jdRv14tpt/chweY7nnuJ0UQr87MNsQbpL4XgWtu7yh9JkHRFbY4l\nqTUOZzAZAgMBAAECggEAC2ucXxnuSVdEfF9AQp0xoA4lYJK7CbMuJMVzPC1Z5YpY\nuJNmZKwpelVJFf7iMcaaCica71NwkBq5nHT8Lek8BvtUkQxXDvHBarBKRkzQM6eo\nVBq1VwwPwK3Hznfl354Qb7JsiA8hECGrDVYmZCAIAeCdYcvOPIJtpvuA5Es5AYKk\n6J6SLF/YcoWLPRzHRSb2z77XXO7GpWCc96soJ2dU3MQGzgxHwFT2KiTCdcTy+lIp\n7KNl87JE73mWbxCdiRe1CAlQ66vH/Oe+2GomaxFcJ0oDhKOkYfKnR0TJizQpJW3n\nSMRbRLYSl6iF4uS1rTHZOtPivXwwhfP8IKR8Rwtz6QKBgQD9B6XESllY1nXhYK10\nOhvd8G9fuhHv6hB+iqN8SseesiXm6HQ+gTI8GoTTO5XIuRBsRu97w6+lMR60O70g\nyg0wCjqJl2R7eZ9JFYlQXyznS1N2iJyTv54Nq4nbIBN8z6sIXFChs6X8RHfigFCL\nnEqkFhQLPeBuY8JtGMOvFbQnWwKBgQDYenass9ITgJSxizgQh48OrvLJkEUUz0aB\nrJNv1jdIyxB+LqYRmteysF0Uzqg+yUdE+Za9NN2LvSoZM5DtT9thKe9K8wHuFIFe\nwBxNAkebrAKNYzJ1aU5VDtMnkgXqQbhDtHs3ZVLjTVAn0aC6minNCnpkJ95r4/kj\nWKvJVfTUmwKBgED9ct1c/1/rDbIKw+KDfl7d/61FvI+zvfLSpzUoe+dN+KA7eogH\nZSC86vraZhl9NzOocKCIXZf/atR+N5CxdPuu1OQ8R2nTjk8WQgOrvnvWBCUA576n\nS/BU6/6lWXwIVvS5yVgPLYYDDAvYS1fgl+dXaGSOyxNveiPNZY2V9ITbAoGBALps\nTALSIJl245Y55CAn/USR2LdILJWNIpTNf3KSMa3YYe2oUo9an2Jciuw+Q5k+UMfP\ngMaT3i5WywhE5gvX936nVFFhEEptEjP8kOKoke43pUMJKA0AkNqjF6g+EiX4TqzP\nokTEVys0C1EfL6FC3biby2axBtQ20PhlhhqukVb9AoGAHcQjKgqKdsljvqdDxq1x\n6M/M6X64VBmvvEsJ/9bas6og4+u6BN2s6tGRNfuiLwkY95ORU/5sFLdzV4QovZCK\nxrQPvj4s+rqzWyeJj0nKg938uGaKHUa5/D3of7wDByseOu5APoEInsUwdPyyn12b\nV3uxIBYjZLxmsPlfmQFewrk=\n-----END PRIVATE KEY-----\n",
-  "client_email": "appvnwealth@opportune-bot-423712-r3.iam.gserviceaccount.com",
-  "client_id": "101329670426584643701",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/appvnwealth%40opportune-bot-423712-r3.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+
 }
