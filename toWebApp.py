@@ -6,7 +6,7 @@ import os
 
 # XÁC THỰC TRUY CẬP VÀO GOOGLE SHEET
 # Đường dẫn đến tệp credentials.json
-credentials_path = "opportune-bot-423712-r3-c83ff5e1e164.json"
+credentials_path = opportune-bot-423712-r3-c83ff5e1e164
 
 # Thiết lập xác thực và kết nối với Google Sheets
 scope = ["https://spreadsheets.google.com/feeds", 
