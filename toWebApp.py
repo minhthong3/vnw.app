@@ -21,7 +21,7 @@ credentials = Credentials.from_service_account_file(credentials_path, scopes=sco
 client = gspread.authorize(credentials)
 
 # Mở sheet bằng cách dùng tên hoặc ID của sheet
-sheet = client.open_by_key('your-google-sheet-id').sheet1  # Thay 'your-google-sheet-id' bằng ID của sheet của bạn
+sheet = client.open_by_key('suggestion_table').sheet1  # Thay 'your-google-sheet-id' bằng ID của sheet của bạn
 
 # Lấy tất cả dữ liệu từ sheet
 data = sheet.get_all_records()
