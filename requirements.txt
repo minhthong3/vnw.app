@@ -9,5 +9,3 @@ cryptography
 psutil
 fake_useragent
 gspread
-google.oauth2.service_account
-streamlit
